@@ -1,0 +1,1 @@
+select product_name, unit_price from products ORDER BY UNIT_PRICE DESC LIMIT 10;
